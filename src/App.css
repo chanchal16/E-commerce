@@ -1,0 +1,30 @@
+.App {
+  /* text-align: center; */
+  height: 100vh;
+  
+  
+}
+
+.logo{
+  font-weight: bold;
+  font-size: large;
+}
+
+nav{
+  background-color: #2874f0;
+ 
+  /* padding: 1px; */
+}
+
+ul{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 0;
+  
+}
+
+ul li{
+  list-style: none;
+}
+
